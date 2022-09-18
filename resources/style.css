@@ -1,0 +1,33 @@
+:root {
+    background-color:#000;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+
+h3, footer {
+    color:gray;
+    font-size:21px;
+    font-weight: 300;
+}
+
+h1, h2 {
+    color:white;
+    font-weight: normal;
+}
+
+h1 { font-size:50px; }
+h2 { font-size:41px; }
+
+a {
+    color:aquamarine;
+}
+
+footer {
+    text-align:right;
+}
+
+img, video {
+    max-width: 90vw;
+    text-align:center;
+    padding: 20px;
+}
